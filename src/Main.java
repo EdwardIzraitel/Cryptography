@@ -10,6 +10,8 @@ public class Main {
         //W, 6 => C
         //Z, 1 => A
         //Hello, 5 => MJQQT
+        //
+        //
 
 //        1.Encryption/decryption with a key
         //recieve some sort of text file
